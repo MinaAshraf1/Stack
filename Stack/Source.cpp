@@ -26,7 +26,7 @@ public:
 	void isFull() {
 		Node* newNode = new Node();
 		if (newNode == NULL)
-			cout << "Sorr, stack is full\n";
+			cout << "Sorry, stack is full\n";
 	}
 
 	bool isEmpty() {
