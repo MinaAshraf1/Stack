@@ -20,7 +20,7 @@ private:
 
 public:
 	Stack() {
-		top == NULL;
+		top = NULL;
 	}
 
 	void isFull() {
