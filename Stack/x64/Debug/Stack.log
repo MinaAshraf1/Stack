@@ -1,3 +1,2 @@
 ﻿  Source.cpp
-C:\Users\Mina Ashraf\source\repos\Stack\Stack\Source.cpp(22,7): warning C4553: '==': result of expression not used; did you intend '='?
   Stack.vcxproj -> C:\Users\Mina Ashraf\source\repos\Stack\x64\Debug\Stack.exe
